@@ -5,5 +5,4 @@ function CategorySection() {
     </div>
   )
 }
-
 export default CategorySection
